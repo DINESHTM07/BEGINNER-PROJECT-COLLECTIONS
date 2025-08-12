@@ -61,8 +61,8 @@ Each project reflects my journey in mastering **responsive design**, **UI/UX bes
 | Beginner Portfolio   | ![Beginner Portfolio](screenshots/dineshtm07.github.io_BEG-PORTFOLIO_.png) |
 | Candy Baby           | ![Candy Baby](screenshots/dineshtm07.github.io_CANDY-BABY-BS4_.png)         |
 | Candy Baby 2         | ![Candy Baby 2](screenshots/dineshtm07.github.io_CANDY-BABY2-BS4_.png)      |
-| HTML Project Two     | ![HTML Project Two](screenshots/127.0.0.1_5500_HTML%20PROJECTS_HTML-MASTER-PROJECT_index.html.png) |
-| HTML Project One     | ![HTML Project One](screenshots/127.0.0.1_5500_HTML%20PROJECTS_CAFE-SHOP-MENU_index.html.png) |
+| HTML Project Two     | ![HTML Project Two](screenshots/html-project-two.png) |
+| HTML Project One     | ![HTML Project One](screenshots/html-project-one.png) |
 
 ---
 
