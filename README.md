@@ -26,22 +26,26 @@ Each project reflects my journey in mastering **responsive design**, **UI/UX bes
 
 ## 📂 Projects
 
-| #  | Project Name         | Tags               | Tech Stack       | Live Demo                                         |
-|----|----------------------|--------------------|------------------|--------------------------------------------------|
-| 1  | Digital Agency       | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/DIGITAL-AGENCY-CSS/)       |
-| 2  | Fashion Store        | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/FASHION-STORE-CSS/)        |
-| 3  | Navbar Dark          | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/NAVBAR-DARK/)              |
-| 4  | Pricing Tag          | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/PRICING-TAG-CSS/)          |
-| 5  | Flexbox Landing Page | `Flexbox`          | HTML, CSS, Flexbox| [🌐 Live](https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/)     |
-| 6  | Flexbox Landing Page 2| `Flexbox`          | HTML, CSS, Flexbox| [🌐 Live](https://dineshtm07.github.io/FLEEXBOX-LANDING-PAGE-2/) |
-| 7  | Museum of Candy      | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/MUSEUM-OF-CANDY/)         |
-| 8  | Basic Gallery        | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/BASIC-GALLERY/)            |
-| 9  | Admin Dashboard      | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/ADMIN-DASHBOARD/)          |
-| 10 | Beginner Portfolio   | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/BEG-PORTFOLIO/)            |
-| 11 | Candy Baby           | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY-BS4/)           |
-| 12 | Candy Baby 2         | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY2-BS4/)          |
-| 13 | HTML Project Two     | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/html-project-two/)         |
-| 14 | HTML Project One     | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/html-project-one/)         |
+
+
+| #  | Project Name | Tech Stack | Live Demo |
+|----|--------------|------------|-----------|
+| 1  | HTML Project One ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/html-project-one/) |
+| 2  | HTML Project Two ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/html-project-two/) |
+| 3  | Candy Baby 2 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY2-BS4/) |
+| 4  | Candy Baby ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY-BS4/) |
+| 5  | Beginner Portfolio ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/BEG-PORTFOLIO/) |
+| 6  | Admin Dashboard ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/ADMIN-DASHBOARD/) |
+| 7  | Basic Gallery ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/BASIC-GALLERY/) |
+| 8  | Museum of Candy ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/MUSEUM-OF-CANDY/) |
+| 9  | Flexbox Landing Page 2 ![Flexbox](https://img.shields.io/badge/Flexbox-23A0FF?logo=css3&logoColor=white) | HTML, CSS, Flexbox | [🌐 Live](https://dineshtm07.github.io/FLEEXBOX-LANDING-PAGE-2/) |
+| 10 | Flexbox Landing Page ![Flexbox](https://img.shields.io/badge/Flexbox-23A0FF?logo=css3&logoColor=white) | HTML, CSS, Flexbox | [🌐 Live](https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/) |
+| 11 | Pricing Tag ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/PRICING-TAG-CSS/) |
+| 12 | Navbar Dark ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/NAVBAR-DARK/) |
+| 13 | Fashion Store ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/FASHION-STORE-CSS/) |
+| 14 | Digital Agency ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | HTML, CSS | [🌐 Live](https://dineshtm07.github.io/DIGITAL-AGENCY-CSS/) |
+
+
 
 ---
 
@@ -70,9 +74,12 @@ Each project reflects my journey in mastering **responsive design**, **UI/UX bes
 
 Feel free to connect or reach out:
 
-- GitHub: [dineshtm07](https://github.com/dineshtm07)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- Email: your.email@example.com
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+ 
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 
 ---
 
@@ -90,4 +97,9 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
   </a>
 </div>
 
+
+
+
 💡 **Tip:** Click the 🌐 "Live" link for each project to see it in action.
+
+
