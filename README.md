@@ -49,20 +49,20 @@ Each project reflects my journey in mastering **responsive design**, **UI/UX bes
 
 | Project Name         | Screenshot                                       |
 |----------------------|------------------------------------------------|
-| Digital Agency       | ![Digital Agency](dineshtm07.github.io_DIGITAL-AGENCY-CSS_.png) |
-| Fashion Store        | ![Fashion Store](https://yourimagehost.com/fashion-store.png)   |
-| Navbar Dark          | ![Navbar Dark](https://yourimagehost.com/navbar-dark.png)       |
-| Pricing Tag          | ![Pricing Tag](https://yourimagehost.com/pricing-tag.png)       |
-| Flexbox Landing Page | ![Flexbox Landing Page](https://yourimagehost.com/flexbox-landing-page.png) |
-| Flexbox Landing Page 2| ![Flexbox Landing Page 2](https://yourimagehost.com/flexbox-landing-page-2.png) |
-| Museum of Candy      | ![Museum of Candy](https://yourimagehost.com/museum-of-candy.png)|
-| Basic Gallery        | ![Basic Gallery](https://yourimagehost.com/basic-gallery.png)   |
-| Admin Dashboard      | ![Admin Dashboard](https://yourimagehost.com/admin-dashboard.png)|
-| Beginner Portfolio   | ![Beginner Portfolio](https://yourimagehost.com/beginner-portfolio.png) |
-| Candy Baby           | ![Candy Baby](https://yourimagehost.com/candy-baby.png)         |
-| Candy Baby 2         | ![Candy Baby 2](https://yourimagehost.com/candy-baby2.png)      |
-| HTML Project Two     | ![HTML Project Two](https://yourimagehost.com/html-project-two.png) |
-| HTML Project One     | ![HTML Project One](https://yourimagehost.com/html-project-one.png) |
+| Digital Agency       | ![Digital Agency](screenshots/dineshtm07.github.io_DIGITAL-AGENCY-CSS_.png) |
+| Fashion Store        | ![Fashion Store](screenshots/dineshtm07.github.io_FASHION-STORE-CSS_.png)   |
+| Navbar Dark          | ![Navbar Dark](screenshots/dineshtm07.github.io_NAVBAR-DARK_.png)       |
+| Pricing Tag          | ![Pricing Tag](screenshots/dineshtm07.github.io_PRICING-TAG-CSS_.png)       |
+| Flexbox Landing Page | ![Flexbox Landing Page](screenshots/dineshtm07.github.io_FLEXBOX-LANDING-PAGE_.png) |
+| Flexbox Landing Page 2| ![Flexbox Landing Page 2](screenshots/dineshtm07.github.io_FLEEXBOX-LANDING-PAGE-2_.png) |
+| Museum of Candy      | ![Museum of Candy](screenshots/dineshtm07.github.io_MUSEUM-OF-CANDY_.png)|
+| Basic Gallery        | ![Basic Gallery](screenshots/dineshtm07.github.io_BASIC-GALLERY_.png)   |
+| Admin Dashboard      | ![Admin Dashboard](screenshots/dineshtm07.github.io_ADMIN-DASHBOARD_ (1).png)|
+| Beginner Portfolio   | ![Beginner Portfolio](screenshots/dineshtm07.github.io_BEG-PORTFOLIO_.png) |
+| Candy Baby           | ![Candy Baby](screenshots/dineshtm07.github.io_CANDY-BABY-BS4_.png)         |
+| Candy Baby 2         | ![Candy Baby 2](screenshots/dineshtm07.github.io_CANDY-BABY2-BS4_.png)      |
+| HTML Project Two     | ![HTML Project Two](screenshots/127.0.0.1_5500_HTML%20PROJECTS_HTML-MASTER-PROJECT_index.html.png) |
+| HTML Project One     | ![HTML Project One](screenshots/127.0.0.1_5500_HTML%20PROJECTS_CAFE-SHOP-MENU_index.html.png) |
 
 ---
 
