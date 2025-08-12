@@ -81,10 +81,10 @@ Feel free to connect or reach out:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/DINESHTM07)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-dinesh-s-47a11a28a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-s-47a11a28a/)
  
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duke02101@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:duke02101@gmail.com)
+
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/itz_dinesh._07?igsh=ejl1MzZrOWl2M3lr)
 
