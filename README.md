@@ -31,20 +31,21 @@ Each project reflects my journey in mastering **responsive design**, **UI/UX bes
 
 | #  | Project Name         | Tags               | Tech Stack       | Live Demo                                         |
 |----|----------------------|--------------------|------------------|--------------------------------------------------|
-| 1  | Digital Agency       | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/DIGITAL-AGENCY-CSS/)       |
-| 2  | Fashion Store        | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/FASHION-STORE-CSS/)        |
-| 3  | Navbar Dark          | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/NAVBAR-DARK/)              |
-| 4  | Pricing Tag          | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/PRICING-TAG-CSS/)          |
-| 5  | Flexbox Landing Page | `Flexbox`          | HTML, CSS, Flexbox| [🌐 Live](https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/)     |
-| 6  | Flexbox Landing Page 2| `Flexbox`          | HTML, CSS, Flexbox| [🌐 Live](https://dineshtm07.github.io/FLEEXBOX-LANDING-PAGE-2/) |
-| 7  | Museum of Candy      | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/MUSEUM-OF-CANDY/)         |
-| 8  | Basic Gallery        | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/BASIC-GALLERY/)            |
-| 9  | Admin Dashboard      | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/ADMIN-DASHBOARD/)          |
-| 10 | Beginner Portfolio   | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/BEG-PORTFOLIO/)            |
-| 11 | Candy Baby           | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY-BS4/)           |
-| 12 | Candy Baby 2         | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY2-BS4/)          |
-| 13 | HTML Project Two     | `HTML5`, `CSS3`   | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/html-project-two/)         |
-| 14 | HTML Project One     | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/html-project-one/)         |
+| 1  | E-Commerce Website   |  `HTML5`, `CSS3`   | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/SHOES-E-COMMERCE-WEBSITE/) |
+| 2  | Digital Agency       | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/DIGITAL-AGENCY-CSS/)       |
+| 3  | Fashion Store        | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/FASHION-STORE-CSS/)        |
+| 4  | Navbar Dark          | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/NAVBAR-DARK/)              |
+| 5  | Pricing Tag          | `CSS3`             | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/PRICING-TAG-CSS/)          |
+| 6  | Flexbox Landing Page | `Flexbox`          | HTML, CSS, Flexbox| [🌐 Live](https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/)     |
+| 7  | Flexbox Landing Page 2| `Flexbox`          | HTML, CSS, Flexbox| [🌐 Live](https://dineshtm07.github.io/FLEEXBOX-LANDING-PAGE-2/) |
+| 8  | Museum of Candy      | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/MUSEUM-OF-CANDY/)         |
+| 9  | Basic Gallery        | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/BASIC-GALLERY/)            |
+| 10  | Admin Dashboard      | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/ADMIN-DASHBOARD/)          |
+| 11 | Beginner Portfolio   | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/BEG-PORTFOLIO/)            |
+| 12 | Candy Baby           | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY-BS4/)           |
+| 13 | Candy Baby 2         | `Bootstrap 4`      | HTML, CSS, Bootstrap 4 | [🌐 Live](https://dineshtm07.github.io/CANDY-BABY2-BS4/)          |
+| 14 | HTML Project Two     | `HTML5`, `CSS3`   | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/html-project-two/)         |
+| 15 | HTML Project One     | `HTML5`, `CSS3`    | HTML, CSS        | [🌐 Live](https://dineshtm07.github.io/html-project-one/)         |
 
 
 
@@ -58,6 +59,7 @@ Each project reflects my journey in mastering **responsive design**, **UI/UX bes
 
 | Project Name         | Screenshot                                       |
 |----------------------|------------------------------------------------|
+ | E-Commerce Website     | ![E-Commerce WEbsite](https://github.com/DINESHTM07/BEGINNER-PROJECT-COLLECTIONS/blob/main/screenshots/dineshtm07.github.io_SHOES-E-COMMERCE-WEBSITE_.png)|
 | Digital Agency       | ![Digital Agency](screenshots/dineshtm07.github.io_DIGITAL-AGENCY-CSS_.png) |
 | Fashion Store        | ![Fashion Store](screenshots/dineshtm07.github.io_FASHION-STORE-CSS_.png)   |
 | Navbar Dark          | ![Navbar Dark](screenshots/dineshtm07.github.io_NAVBAR-DARK_.png)       |
